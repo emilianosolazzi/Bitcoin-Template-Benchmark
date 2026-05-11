@@ -81,5 +81,5 @@ $env:NATIVEBTC_API_KEY            = '<optional fastpath key>'
 
 Note: the published `pubkey.hex` is the demo verifier key only. Production
 runs must rotate the signing seed and update `pubkey.hex` accordingly.
-Ran on:
-| Hardware | Consumer Intel i7, 16 GB RAM, WiFi |
+
+Note: ran on Hardware Consumer Intel i7, 16 GB RAM, WiFi.
