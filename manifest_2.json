@@ -1,0 +1,49 @@
+{
+  "payload": {
+    "cycle": {
+      "baseline": {
+        "compact_block_efficiency": "0.0000",
+        "expected_revenue_sats": "2314120.00",
+        "fee_per_weight": "0.621555",
+        "package_candidates": "0",
+        "stale_rate_bps": "0.0000",
+        "target_weight": "4000000",
+        "total_fees_sat": "2314120",
+        "total_weight": "3723114",
+        "tx_count": "3167"
+      },
+      "fetched_at": "1778538779",
+      "mempool_size": "3704",
+      "mempool_total_fees_sat": "2596771",
+      "mempool_total_vsize": "1028527",
+      "optimized": {
+        "compact_block_efficiency": "0.9759",
+        "expected_revenue_sats": "2560838.72",
+        "fee_per_weight": "0.643009",
+        "package_candidates": "3704",
+        "stale_rate_bps": "33.4598",
+        "target_weight": "3996000",
+        "total_fees_sat": "2569436",
+        "total_weight": "3995956",
+        "tx_count": "3562"
+      },
+      "source": "bitcoin_core_rpc",
+      "uplift_bps": "1103.2963",
+      "uplift_sats": "255316",
+      "weight_budget": "4000000"
+    },
+    "cycle_number": 72,
+    "data_source": "bitcoin_core_rpc",
+    "scenario": "shadow_runner_cycle",
+    "schema": "bench-receipt/1",
+    "schema_version": "1.0.0",
+    "signed_at": 1778538786
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "canonicalization": "json_sorted_keys_compact",
+    "key_id": "a1d577350a959ecd",
+    "public_key": "29e5833a915a6429a4e3a7948475c338ef436eb82be89c92f059704403db9d55",
+    "value": "b89466def65a749baf068e6644417aeb03bbce4ba8b5d76e6be2ffacf1ae9c52505a5256becb0fa5419e691bd822aa01d15c0f15d956517ab921d0fd5f9f7108"
+  }
+}
