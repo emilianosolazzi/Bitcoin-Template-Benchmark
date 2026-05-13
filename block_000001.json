@@ -1,0 +1,35 @@
+{
+  "payload": {
+    "baseline": {
+      "total_fees_sat": "1390685",
+      "total_weight": "3938637",
+      "tx_count": "3021"
+    },
+    "data_source": "bitcoin_core_rpc",
+    "mempool_size": "3598",
+    "mempool_snapshot_age_ms": "4",
+    "mempool_total_fees_sat": "1552593",
+    "mempool_total_vsize": "1096009",
+    "optimized": {
+      "total_fees_sat": "1456635",
+      "total_weight": "3995655",
+      "tx_count": "3272"
+    },
+    "receipt_kind": "template-snapshot/1",
+    "scenario": "template_watcher_snapshot",
+    "schema": "bench-receipt/1",
+    "schema_version": "1.0.0",
+    "signed_at": 1778710190,
+    "template_build_ms": "4623",
+    "uplift_bps": "474.2267",
+    "uplift_sats": "65950",
+    "weight_budget": "4000000"
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "canonicalization": "json_sorted_keys_compact",
+    "key_id": "a1d577350a959ecd",
+    "public_key": "29e5833a915a6429a4e3a7948475c338ef436eb82be89c92f059704403db9d55",
+    "value": "8f2da100490c2ab30fa3b09a6d74899721ec50549eb282c7477338602154dcc7b7e6b902eb1ccdc7cec1b79392a57fc91107cc5ba1a542bea58071d28ad5ea07"
+  }
+}
